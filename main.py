@@ -12,4 +12,3 @@ while True:
         if event.type == pygame.QUIT:
             pygame.quit() # Close Windows
             quit() # end pygame
-            dada
